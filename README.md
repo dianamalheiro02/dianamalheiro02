@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Diana!</h1>
-<h3 align="center">A 3rd year Software Engeneer student.</h3>
+<h3 align="center">A 5th year Software Engeneer student.</h3>
 
 - 🌱 I’m currently learning **at Universidade do Minho, Braga.**
 
