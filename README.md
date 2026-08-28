@@ -18,7 +18,7 @@ I'm especially drawn to **Frontend Development, Language Engineering, the Semant
 <p align="left">
   <a href="mailto:dianaf.malheiro@hotmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/></a>
   <a href="https://instagram.com/dianafmalheiro" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://portfolio-mauve-three-31.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Portfolio" width="40" height="40"/></a>
+  <a href="https://dianateixeiraop.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Portfolio" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/dianamalheiro02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
